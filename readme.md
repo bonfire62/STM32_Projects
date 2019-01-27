@@ -8,3 +8,5 @@ Microprocessor: STM32F072RBTx
 The goal of these projects is to provide bare-metal programming practice.
 
 LED_w_debounce_button.c - LED's toggling through debounced user-button control.
+
+NVIC_External Button Interrupt.c - Use of external button interrupt to flash LED's through SYSCONF 
